@@ -1,5 +1,7 @@
 # Book Recommendation System
 
+**Live App:** https://your-app-link.streamlit.app
+
 A personalized Book Recommendation System built using **K-Nearest Neighbors (KNN)** that suggests books based on user ratings and similar user interests.
 
 ---
@@ -24,3 +26,6 @@ A personalized Book Recommendation System built using **K-Nearest Neighbors (KNN
 - Collects user ratings data
 - Finds similar users using KNN
 - Recommends books liked by similar users
+
+## Deployment
+This project is deployed using Streamlit and accessible online.
