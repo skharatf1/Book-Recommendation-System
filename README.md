@@ -1,6 +1,6 @@
 # Book Recommendation System
 
-**Live App:** https://your-app-link.streamlit.app
+**Live App:** https://book-recommendation-system-sahilkharat.streamlit.app/
 
 A personalized Book Recommendation System built using **K-Nearest Neighbors (KNN)** that suggests books based on user ratings and similar user interests.
 
